@@ -1,5 +1,5 @@
 {
-  "name": "react-file-reader-input",
+  "name": "@jeremyckahn/react-file-reader-input",
   "version": "2.0.0",
   "description": "React file input component for complete control over styling and abstraction from file reading.",
   "main": "./lib/index.js",
